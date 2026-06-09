@@ -39,6 +39,8 @@ Source Systems (CRM & ERP CSV Files)
       Analytics & Reporting
 ```
 
+<img width="1544" height="803" alt="data_architecture" src="https://github.com/user-attachments/assets/52a002cc-4e2e-4064-a999-834cef6f3002" />
+
 ### Bronze Layer
 
 Purpose:
@@ -91,6 +93,9 @@ Views:
 
 ## Data Model
 
+<img width="1094" height="563" alt="data_flow" src="https://github.com/user-attachments/assets/e960e52c-bc77-41c9-9f9e-dea364629cf3" />
+
+
 ### Dimension Tables
 
 #### dim_customers
@@ -127,6 +132,8 @@ Contains:
 * Order dates
 
 ---
+
+<img width="1522" height="734" alt="data_integration" src="https://github.com/user-attachments/assets/bb2f58d8-c6af-42ca-8c78-44bcf62d4f40" />
 
 ## ETL Process
 
